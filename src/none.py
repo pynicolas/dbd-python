@@ -1,5 +1,5 @@
 def hello(name):
-  print("Hello ")
+  print("Hello!")
   print(name.upper())
 
 def call_hello():
