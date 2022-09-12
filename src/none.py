@@ -6,3 +6,4 @@ def call_hello():
   name = None
   hello(name)
 
+# x = foo()
